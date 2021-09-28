@@ -1,5 +1,24 @@
-### Hi there 👋
+### 💎Game Designer & Programmer💎
 
+#### ✨ About Me
+```
+👋🏼 Hi, I'm Sujin Lee. 
+🏫 I'm studying at the Department of Game Software at <Hongik University>.
+🎮 I'm part of a game creation group <EXDIO>.
+``` 
+---
+
+#### 💻 Technical Stack
+`C` `C++` `C#` 
+
+`Unity` `DirectX`
+
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
+---
+#### 🌺 **BLOG** : [Portfolio](https://happy2jinsu.tistory.com/) / [Diary and study notes](https://blog.naver.com/selina0)
+
+#### ✉️  **Email** : [selina0@naver.com](mailto:selina0@naver.com)
 <!--
 **happy-jinsu/happy-jinsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
