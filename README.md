@@ -1,4 +1,4 @@
-### 💎Game Designer & Programmer💎
+## 💎Game Designer & Programmer💎
 
 #### ✨ About Me
 ```
