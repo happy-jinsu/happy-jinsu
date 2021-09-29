@@ -9,9 +9,7 @@
 ---
 
 #### 💻 Technical Stack
-`C` `C++` `C#` 
-
-`Unity` `DirectX`
+`C` `C++` `C#` `Python` `Unity` `DirectX`
 
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
