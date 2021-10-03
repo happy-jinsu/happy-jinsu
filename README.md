@@ -2,7 +2,7 @@
 
 #### ✨ About Me
 ```
-👋🏼 Hi, I'm Sujin Lee. 
+👋🏼 Hi, I'm Su-jin Lee. 
 🏫 I'm studying at the Department of Game Software at <Hongik University>.
 🎮 I'm part of a game creation group <EXDIO>.
 ``` 
