@@ -12,8 +12,9 @@
 `C` `C++` `C#` `Python` `Unity` `DirectX`
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
 [![commit combo](http://commitcombo.com/get?user=happy-jinsu&theme=Apricot-mini)](https://github.com/devxb/commitcombo)
+---
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
 ---
 #### 🌺 **BLOG** : [Portfolio](https://happy2jinsu.tistory.com/) / [Diary and study notes](https://blog.naver.com/selina0)
 
