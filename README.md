@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Game%20Designer%20,%20Programmer&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Game%20Designer%20,%20Programmer&fontSize=50)
 
 ## 💎Game Designer & Programmer💎
 
