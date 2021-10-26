@@ -15,7 +15,6 @@
 `C` `C++` `C#` `Python` `Unity` `DirectX`
 
 ---
-[![readmeplants](https://readmeplants.com/get?name=happy-jinsu&planet=earth&plant=rainbowTree&nameTag=blackNameTag&ground=hill&background=none)](https://github.com/devxb/readmeplants)
 [![commit combo](http://commitcombo.com/get?user=happy-jinsu&theme=Apricot-mini)](https://github.com/devxb/commitcombo)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
 ---
