@@ -17,7 +17,6 @@
 ---
 [![commit combo](http://commitcombo.com/get?user=happy-jinsu&theme=Apricot-mini)](https://github.com/devxb/commitcombo)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limjh1&theme=dark&show_icons=true)
 ---
 #### 🌺 **BLOG** : [Portfolio](https://happy2jinsu.tistory.com/) / [Diary and study notes](https://blog.naver.com/selina0)
 
