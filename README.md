@@ -15,7 +15,7 @@
 `C` `C++` `C#` `Python` `Unity` `DirectX`
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-jinsu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-jinsu&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![commit combo](http://commitcombo.com/get?user=happy-jinsu&theme=Apricot-mini)](https://github.com/devxb/commitcombo)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
