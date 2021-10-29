@@ -13,13 +13,16 @@
 
 #### 💻 Technical Stack
 `C` `C++` `C#` `Python` `Unity` `DirectX`
+
 ---
 #### 🌺 **BLOG** : [Portfolio](https://happy2jinsu.tistory.com/) / [Diary and study notes](https://blog.naver.com/selina0)
 
 #### ✉️  **Email** : [selina0@naver.com](mailto:selina0@naver.com)
 ---
 [![commit combo](http://commitcombo.com/get?user=happy-jinsu&theme=Apricot-mini)](https://github.com/devxb/commitcombo)
+---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=selina0)](https://solved.ac/selina0/)
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-jinsu&theme=gruvbox_light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
