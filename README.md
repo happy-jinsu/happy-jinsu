@@ -16,8 +16,8 @@
 
 ---
 #### 🌺 **BLOG**
-[Study](https://happy2jinsu.tistory.com/)/
-[Diary and study notes](https://blog.naver.com/selina0)
+STUDY [Study](https://happy2jinsu.tistory.com/)
+DIARY [Diary and study notes](https://blog.naver.com/selina0)
 
 #### ✉️  **Email** : [selina0@naver.com](mailto:selina0@naver.com)
 ---
