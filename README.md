@@ -15,7 +15,7 @@
 `C` `C++` `C#` `Python` `Unity` `DirectX`
 
 ---
-#### 🌺 **BLOG**
+#### 🌺 **BLOG
 [Diary and study notes](https://happy2jinsu.tistory.com/)
 [Diary and study notes](https://blog.naver.com/selina0)
 
